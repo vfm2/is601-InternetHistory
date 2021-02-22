@@ -38,6 +38,11 @@ p {font-size: 16px;}
     font-size: 20px;
     color:#7C8287
 }
-.navbar-nav  li a:hover {
-    color: #33CFED !important;
+.navbar-nav li a:hover{
+    color: #2f2f2f !important;
+}
+
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
 }
